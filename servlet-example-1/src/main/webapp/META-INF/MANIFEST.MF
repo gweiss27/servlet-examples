@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: io/gregoryweiss/tutorials/servlets
+Main-Class: io.gregoryweiss.tutorials.servlets.ServletDemo1
+
